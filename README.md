@@ -1,6 +1,8 @@
+![image](https://github.com/user-attachments/assets/eacfba28-36c8-4415-9978-036827233246)
+
 <h2>Road Accident Analysis -- <a href="https://app.powerbi.com/groups/me/reports/a46a7dc6-6116-4799-abb6-f42d1e29c6ab/ReportSection?ctid=ef42a694-9ced-4926-90c7-7e6591c19422&experience=power-bi"> Live Dashboard</a> </h2> 
 
-![image](https://github.com/user-attachments/assets/eacfba28-36c8-4415-9978-036827233246)
+
 
 
 <p>This report provides a comprehensive analysis of road accident data, including key statistics and insights. Let's break down the key findings:</p>
